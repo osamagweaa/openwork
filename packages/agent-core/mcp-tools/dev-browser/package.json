@@ -16,11 +16,11 @@
     "playwright": "npm:rebrowser-playwright@^1.52.0"
   },
   "devDependencies": {
-    "@hono/node-server": "^1.19.7",
+    "@hono/node-server": "^1.19.14",
     "@hono/node-ws": "^1.2.0",
     "@types/express": "^5.0.0",
-    "express": "^4.22.2",
-    "hono": "^4.12.25",
+    "express": "^5.2.1",
+    "hono": "^4.12.31",
     "tsx": "^4.22.4",
     "typescript": "^5.0.0",
     "vitest": "^4.1.8"
